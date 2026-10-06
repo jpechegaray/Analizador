@@ -1,14 +1,13 @@
-
 {
   "name": "analizador_utn",
   "version": "1.0.0",
-  "description": "",
+  "description": "ANTLR4 lexer and parser for a small do-while teaching language",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juan Pablo Echegaray",
   "license": "ISC",
   "type": "module",
   "dependencies": {
